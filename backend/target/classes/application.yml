@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    username: zky
+    password: zzSS12345
+    url: jdbc:postgresql://120.46.145.217:5432/postgres?serverTimezone=UTC&useUnicode=ture&characterEncoding=utf-8
+    driver-class-name: "org.postgresql.Driver"
+
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 50MB
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+
+files:
+  upload:
+    path: D:/论文文件/files/
+
