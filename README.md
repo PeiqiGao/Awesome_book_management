@@ -37,6 +37,6 @@ npm run dev
 
 ### 3.联系
 
-前端部分：boarpeiqi@gmail.com 高沛琦
+前端部分：peiqigao18@gmail.com 高沛琦
 
 后端部分：kuangyi_123@yeah.net 赵匡益
